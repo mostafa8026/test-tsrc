@@ -1,0 +1,6 @@
+repos:
+  - src: hello-si
+    url: https://github.com/mostafa8026/hello_sub_module_inside1
+
+  - src: hello-w
+    url: https://github.com/mostafa8026/Hello_World.git
